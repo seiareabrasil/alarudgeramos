@@ -1,3 +1,3 @@
 # Conferência de Estaca
 
-- [Link](https://seiareabrasil.github.io/transmissoes/aulao/)
+- [Link](https://secexecutivoala1.github.io/confdeestaca/links/)
