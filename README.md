@@ -1,3 +1,3 @@
-# SEI Área Brasil
+# Conferência de Estaca
 
-- [Aulão Regional](https://seiareabrasil.github.io/transmissoes/aulao/)
+- [Link](https://seiareabrasil.github.io/transmissoes/aulao/)
